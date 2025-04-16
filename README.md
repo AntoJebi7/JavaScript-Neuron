@@ -11,7 +11,7 @@ Welcome to **JavaScript Neuron**, your brain-powered repository for mastering Ja
 
 JavaScript Neuron is a collection of JavaScript problems that I have solved (or will solve) across various platforms. Each solution is designed to help build a deeper understanding of JavaScript, algorithms, data structures, and problem-solving techniques.
 
-In this repository, you'll find:
+In this repository, you'll find problems from various platforms like,
 
 - **LeetCode solutions**: Problems from the popular platform, ranging from easy to hard, covering various topics like arrays, strings, trees, dynamic programming, etc.
 - **CodeWars challenges**: CodeWars problems to help hone your JavaScript skills through fun and interesting exercises.
