@@ -1,4 +1,4 @@
-/**
+/** Day = 2
  * LeetCode Problem: Custom Expectation Function
  * 
  * Problem: Implement a function that returns an object with two methods:

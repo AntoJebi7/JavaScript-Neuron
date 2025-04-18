@@ -1,4 +1,4 @@
-/**
+/** Day = 1
  * LeetCode Problem: Create Hello World Function
  * 
  * Problem: Implement a function `createHelloWorld` that returns a function.

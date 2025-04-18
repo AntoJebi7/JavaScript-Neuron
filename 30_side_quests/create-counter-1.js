@@ -1,4 +1,4 @@
-/**
+/** Day 4
  * LeetCode Problem: Create Counter Function
  * 
  * Problem: Implement a function `createCounter` that takes a number `n` as input
