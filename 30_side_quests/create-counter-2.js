@@ -1,6 +1,6 @@
 /**
  * 🧠 LeetCode - 30 Days of JavaScript Challenge
- * 📅 Day X (Replace with the actual day number)
+ * 📅 Day 3
  * 📌 Problem: Counter (https://leetcode.com/problems/counter/)
  *
  * 💬 Description:
